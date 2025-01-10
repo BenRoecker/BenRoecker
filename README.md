@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BenRoecker
 - 👀 I’m interested in Virtual and augmented reality.
 - 🌱 I’m currently working with unreal engine for VR app with OpenXR and Unity for VR.
-- 💞️ I’m looking to collaborate on Needle.tools project, Vr project with Unreal Engine and/or Unity. 
+- 💞️ Vr project with Unreal Engine and/or Unity and/or Lovr. 
 - 📫 How to reach me : benjamin.roecker@lecnam.net. 
 
 <!---
